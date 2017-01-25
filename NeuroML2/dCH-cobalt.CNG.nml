@@ -70554,7 +70554,6 @@
 
         <segmentGroup id="all" >
           <include segmentGroup="Cable_0"/>
-          <include segmentGroup="Cable_1"/>
           <include segmentGroup="Cable_2"/>
           <include segmentGroup="Cable_3"/>
           <include segmentGroup="Cable_4"/>
@@ -75336,7 +75335,6 @@
         </segmentGroup>
 
         <segmentGroup id="axon_group" >
-          <include segmentGroup="Cable_1"/>
           <include segmentGroup="Cable_2"/>
           <include segmentGroup="Cable_3"/>
           <include segmentGroup="Cable_4654"/>
@@ -75464,7 +75462,6 @@
         </segmentGroup>
 
         <segmentGroup id="color_grey" >
-          <include segmentGroup="Cable_1"/>
           <include segmentGroup="Cable_2"/>
           <include segmentGroup="Cable_3"/>
           <include segmentGroup="Cable_4654"/>

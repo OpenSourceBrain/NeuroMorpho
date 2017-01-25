@@ -3,9 +3,9 @@
   xmlns:mml="http://morphml.org/morphml/schema"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
   xsi:schemaLocation="http://www.neuroml.org/schema/neuroml2  https://raw.github.com/NeuroML/NeuroML2/master/Schemas/NeuroML2/NeuroML_v2beta.xsd"
-  id="17_CNG_swc">
+  id="SWC_17_CNG_swc">
 
-  <cell id="17_CNG_swc">
+  <cell id="SWC_17_CNG_swc">
       <notes>
         Neuronal morphology exported in NeuroML v2beta from CVapp (NeuroMorpho.org version)
         Original file: 17.CNG.swc.swc </notes>

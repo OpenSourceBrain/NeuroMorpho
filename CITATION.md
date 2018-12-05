@@ -2,12 +2,12 @@
 
 The software in this repository is provided under the terms of the [software license](LICENSE) included with it. 
 
-If you use this code in your research (particularly the source NeuroMorpho.Org reconstructions in the SWC folder), 
+If you use this code in your research (**particularly the source NeuroMorpho.Org reconstructions in the SWC folder**), 
 we respectfully ask you to cite:
 
 **The NeuroMorpho.Org entry for the reconstruction**
 
-    - Details on citing NeuroMorpho.Org reconstructions can be found here: http://neuromorpho.org/useterm.jsp
+   - Details on citing NeuroMorpho.Org reconstructions can be found here: http://neuromorpho.org/useterm.jsp
 
 **The latest release of this Open Source Brain repository**
 

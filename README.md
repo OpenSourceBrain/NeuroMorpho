@@ -14,7 +14,7 @@ Note: converting NeuroMorpho.Org morphologies to NeuroML is facilitated by the C
 More details on how to export NeuroML 2 cells from NeuroMorpho.Org and put them on OSB for visualisation, can be found in [this tutorial](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Exercises/Exercise1_NeuroMorpho_to_OSB.md).
 
 
-[![Build Status](https://travis-ci.org/OpenSourceBrain/NeuroMorpho.svg?branch=master)](https://travis-ci.org/OpenSourceBrain/NeuroMorpho)
+[![Continuous build using OMV](https://github.com/OpenSourceBrain/NeuroMorpho/actions/workflows/omv-ci.yml/badge.svg)](https://github.com/OpenSourceBrain/NeuroMorpho/actions/workflows/omv-ci.yml)
 
 ### Reusing this code
 
